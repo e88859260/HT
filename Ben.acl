@@ -15,8 +15,8 @@
 # [bypass_list] 直连列表 在1207多行
 # [proxy_list] 代理列表 在6874多行
 # [remote_dns] 远程 DNS 解析 -不加使用本地 DNS
-
-
+[proxy_all]
+20019.ip138.com
 [bypass_all]
 47.112.13.187/22
 47.112.13.187/80
