@@ -24,4 +24,6 @@ sudo chmod 755 closescreen.sh
 sudo chmod 755 controller.sh
 sudo chmod 755 megadlpush.sh
 sudo chmod 755 recorder.sh
+cd ../
+rm -f install.sh
 echo "Successful"
